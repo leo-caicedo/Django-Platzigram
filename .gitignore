@@ -1,2 +1,4 @@
 Pipfile
 Pipfile.lock
+*.png
+*.jpe
