@@ -1,5 +1,5 @@
 # Django-Platzigram 
-El projecto nace del curso de [Platzi](http://platzi.com "Platzi") sobre Django instruido por [Pablo Trinidad](https://github.com/pablotrinidad).
+El proyecto nace del curso de [Platzi](http://platzi.com "Platzi") sobre Django instruido por [Pablo Trinidad](https://github.com/pablotrinidad).
 
 El proyecto maneja autenticación de usuarios, creación de usuarios y posts, además cuenta con secciones para ver los posts de los usuarios. 
 
